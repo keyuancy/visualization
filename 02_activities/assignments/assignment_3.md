@@ -9,14 +9,40 @@
         ```
         Your answer...
 
+Data Visualization Ethics
 
+Good Data Visualization Example: Global Temperature TrendsSource: [https://public.tableau.com/views/GlobalTemperatureTrends]
+
+This visualization is generally accessible, reproducible, and equitable. The accessibility is supported by the use of contrasting colors that are easy to differentiate, and clear labels that make the visualization easy to understand for most viewers, including those with visual impairments. Reproducibility is ensured as the visualization uses a commonly available dataset, and the steps to create it could be followed using public tools like Tableau. Regarding equity, this visualization does a good job by not introducing bias and by representing data in a neutral manner, ensuring that it is fair to all potential viewers and stakeholders.
+
+How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?
+Your answer...
+
+Accessibility: To improve accessibility, it could include text alternatives for key points, which would help people using screen readers. This aligns with Class 5's discussions on accessible data visualization.
+
+Reproducibility: Providing a link to the raw dataset and detailed instructions on how the visualization was made could further enhance reproducibility, making it easier for others to replicate the results.
+
+Equity: Including demographic context or specific group information could help ensure that the data reflects equitable representation, allowing viewers to understand how different populations are impacted.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
 
+Data Visualization Ethics
 
+Good Data Visualization Example: Global Temperature TrendsSource: [https://public.tableau.com/views/GlobalTemperatureTrends]
+
+This visualization is generally accessible, reproducible, and equitable. The accessibility is supported by the use of contrasting colors that are easy to differentiate, and clear labels that make the visualization easy to understand for most viewers, including those with visual impairments. Reproducibility is ensured as the visualization uses a commonly available dataset, and the steps to create it could be followed using public tools like Tableau. Regarding equity, this visualization does a good job by not introducing bias and by representing data in a neutral manner, ensuring that it is fair to all potential viewers and stakeholders.
+
+How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?
+Your answer...
+
+Accessibility: To improve accessibility, it could include text alternatives for key points, which would help people using screen readers. This aligns with Class 5's discussions on accessible data visualization.
+
+Reproducibility: Providing a link to the raw dataset and detailed instructions on how the visualization was made could further enhance reproducibility, making it easier for others to replicate the results.
+
+Equity: Including demographic context or specific group information could help ensure that the data reflects equitable representation, allowing viewers to understand how different populations are impacted.
 
         ```
 
