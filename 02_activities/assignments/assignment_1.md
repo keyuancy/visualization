@@ -7,6 +7,71 @@
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
   
   > If code in a slide looks like this, you should be running it to generate results.
+-Class 1: Intro and Overview, Getting Started with Matplotlib
+
+## Class 1: Intro and Overview, Getting Started with Matplotlib
+
+```python
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4]
+y = [10, 20, 25, 30]
+
+plt.plot(x, y)
+plt.xlabel('x-axis label')
+plt.ylabel('y-axis label')
+plt.title('Getting Started with Matplotlib')
+plt.show()
+
+- First, let’s load our libraries:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import scipy
+import PIL
+import requests
+
+## Making a Basic Figure with Matplotlib
+
+- Next, make some sample data so that we have something to plot:
+
+```python
+import numpy as np
+
+np.random.seed(613)
+x = np.arange(50)
+y = np.random.randint(0, 100, 50)
+
+
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots(figsize=(5, 3))
+ax.scatter(x, y)
+plt.show()
+
+## Making a Basic Figure with Matplotlib
+
+### Step 1: Generate Sample Data
+First, we need to generate some data points to plot. We use `numpy` to create a sequence of numbers and some random values.
+
+```python
+import numpy as np
+
+np.random.seed(613)  # Set seed for reproducibility
+x = np.arange(50)    # Generate an array from 0 to 49
+y = np.random.randint(0, 100, 50)  # Generate 50 random integers between 0 and 100
+
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots(figsize=(5, 3))  # Create a figure and an axes object
+ax.scatter(x, y)  # Plot the data points
+plt.xlabel('x-axis label')  # Label for x-axis
+plt.ylabel('y-axis label')  # Label for y-axis
+plt.title('Basic Scatter Plot')  # Add title to the plot
+plt.show()  # Display the plot
+
 
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
 - Following each lesson with code, submit a document (either .py or a Jupyter notebook) containing the functioning code from that day's lesson, along with any written notes or comments.
